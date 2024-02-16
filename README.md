@@ -1,3 +1,3 @@
 # Assets
 
-Contains various assets for the ChronoAtlas application
+Contains various assets for the ChronoAtlas project
